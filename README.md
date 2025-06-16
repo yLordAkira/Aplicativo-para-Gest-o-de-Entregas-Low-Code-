@@ -1,4 +1,4 @@
-# 🧰 Portfólio No-Code - Akira
+# 🧰 Portfólio No-Code - Bruno Lopes
 
 **📦 Aplicativo de Gestão de Entregas**
 Aplicativo desenvolvido para otimizar o controle logístico de entregas, oferecendo uma visualização clara e eficiente de cada etapa do processo. Com uma interface intuitiva e acessível, a ferramenta permite registrar e monitorar:
