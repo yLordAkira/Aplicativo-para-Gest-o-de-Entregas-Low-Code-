@@ -96,6 +96,7 @@ Essa estrutura garante que o processo de entrega seja rastreável, organizado e 
 Quando o motorista for adicionado na planilha "Driver" ele aparecerá no aplicativo para o motorista assim, com todos os motorista já cadastrado.
 
 👤 Seleção do Motorista
+
 Assim que um motorista é cadastrado na planilha Driver, ele passa a aparecer automaticamente na tela inicial do aplicativo, junto aos demais motoristas já registrados.
 
 <img src="./Images/4.png" alt="Tela de seleção de motorista">
@@ -106,11 +107,13 @@ Ao selecionar o motorista, o aplicativo exibe suas informações pessoais (nome,
 <img src="./Images/5.png" alt="Dados do motorista e entregas pendentes">
 
 ✅ Registro da Entrega
+
 Quando o motorista clica em um pedido que acabou de entregar, ele é redirecionado para um formulário dinâmico, que já vem preenchido com os dados principais do pedido (provenientes da planilha Job).
 
 <img src="./Images/6.png" alt="Formulário de confirmação de entrega">
 
 ⚠️ Campos Obrigatórios
+
 Alguns campos no formulário possuem um asterisco *, indicando que são obrigatórios para finalização do processo. Entre eles está o envio da foto do canhoto assinado, que serve como comprovação de entrega. O formulário só pode ser enviado quando todos os campos obrigatórios forem preenchidos corretamente.
 
 ## 👨‍💻 Sobre mim
