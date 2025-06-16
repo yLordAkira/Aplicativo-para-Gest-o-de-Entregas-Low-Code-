@@ -102,6 +102,7 @@ Assim que um motorista é cadastrado na planilha Driver, ele passa a aparecer au
 <img src="./Images/4.png" alt="Tela de seleção de motorista">
 
 📋 Visualização dos Dados e Entregas
+
 Ao selecionar o motorista, o aplicativo exibe suas informações pessoais (nome, contato, placa do veículo etc.) e, logo abaixo, uma lista com todas as entregas pendentes atribuídas a ele.
 
 <img src="./Images/5.png" alt="Dados do motorista e entregas pendentes">
