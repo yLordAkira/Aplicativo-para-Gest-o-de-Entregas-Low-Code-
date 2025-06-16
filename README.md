@@ -123,7 +123,7 @@ Busco uma oportunidade onde eu possa crescer junto com a equipe, contribuir com 
 
 ## 📫 Contato
 
-- **Email**: ylordakira@email.com  
+- **Email**: ylordakira@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/bruno-lopes-768888339/
 
 Obrigado por visitar!
