@@ -9,13 +9,13 @@ Aplicativo desenvolvido para otimizar o controle logístico de entregas, oferece
 
 • Motorista responsável
 
-• Status do pedido (em rota, entregue, pendente, etc.)
+• Status do pedido (Pendente, Finalizado, Reentrega, Devolução ou Cancelado.)
 
 • Comprovação com canhoto assinado
 
 • Localização exata da entrega
 
-• orma de pagamento (pix, dinheiro, cartão, etc.)
+• Forma de pagamento (pix, dinheiro, cartão, etc.)
 
 A solução foi pensada para empresas que desejam reduzir falhas operacionais, garantir rastreabilidade em tempo real e facilitar a tomada de decisões com base em dados atualizados.
 
